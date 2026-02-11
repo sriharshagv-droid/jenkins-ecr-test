@@ -14,6 +14,7 @@ spec:
     spec:
       containers:
         - name: my-test-app
-          image: 795694289362.dkr.ecr.us-east-1.amazonaws.com/my-test-app:1
+          image: 795694289362.dkr.ecr.us-east-1.amazonaws.com/my-test-app:21
           ports:
             - containerPort: 8080
+
